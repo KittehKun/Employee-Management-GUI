@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Employees>
+	<Employee fname="Zachary" lname="Hunt">
+		<Position>Amateur Developer</Position>
+		<Salary>58000</Salary>
+		<Project>Design new Application Suite</Project>
+	</Employee>
+	<Employee fname="Jared" lname="Godwin">
+		<Position>Endpoint - Provision and Deployment</Position>
+		<Salary>58000</Salary>
+		<Project>Deploy new laptop model replacement laptops to departments</Project>
+	</Employee>
+	<Employee fname="Orange" lname="Wildkit">
+		<Position>Receptionist</Position>
+		<Salary>50000</Salary>
+		<Project>No project assigned</Project>
+	</Employee>
+	<Employee fname="Lynol" lname="Sepson">
+		<Position>Information Systems Integration Specialist</Position>
+		<Salary>56000</Salary>
+		<Project>Implement jQuery to Company Website</Project>
+	</Employee>
+	<Employee fname="Wilasco" lname="Sumcho">
+		<Position>Audio Engineer</Position>
+		<Salary>52000</Salary>
+		<Project>Install audio devices in department conference rooms</Project>
+	</Employee>
+	<Employee fname="Aboxa" lname="Zywuna">
+		<Position>Client Manager</Position>
+		<Salary>49000</Salary>
+		<Project>Seek additional clients for company expansion</Project>
+	</Employee>
+</Employees>
